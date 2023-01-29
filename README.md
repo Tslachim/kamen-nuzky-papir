@@ -1,4 +1,4 @@
-Hra kámen nůžky papíř 
+Hra kámen nůžky papír
 
-Hra proti počítači kdy počítač vybírá náhodně ze tří možných variant.
+Hra proti počítači kdy počítač vybírá náhodně ze tří možných variant, proti vám. 
 
